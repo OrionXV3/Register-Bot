@@ -1,2 +1,7 @@
 # Register-Bot
-Bot Register, You Can Use This In https://replit.com
+Bot Register, Discord.js
+
+
+
+
+ You Can Use This In https://replit.com
